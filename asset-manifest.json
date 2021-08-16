@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CoinGecko-/static/css/main.fb477627.chunk.css",
+    "main.js": "/CoinGecko-/static/js/main.11fa4d9b.chunk.js",
+    "main.js.map": "/CoinGecko-/static/js/main.11fa4d9b.chunk.js.map",
+    "runtime-main.js": "/CoinGecko-/static/js/runtime-main.b58ea61d.js",
+    "runtime-main.js.map": "/CoinGecko-/static/js/runtime-main.b58ea61d.js.map",
+    "static/css/2.818011ed.chunk.css": "/CoinGecko-/static/css/2.818011ed.chunk.css",
+    "static/js/2.f5112baf.chunk.js": "/CoinGecko-/static/js/2.f5112baf.chunk.js",
+    "static/js/2.f5112baf.chunk.js.map": "/CoinGecko-/static/js/2.f5112baf.chunk.js.map",
+    "static/js/3.cb9f5a12.chunk.js": "/CoinGecko-/static/js/3.cb9f5a12.chunk.js",
+    "static/js/3.cb9f5a12.chunk.js.map": "/CoinGecko-/static/js/3.cb9f5a12.chunk.js.map",
+    "index.html": "/CoinGecko-/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/CoinGecko-/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.fb477627.chunk.css.map": "/CoinGecko-/static/css/main.fb477627.chunk.css.map",
+    "static/js/2.f5112baf.chunk.js.LICENSE.txt": "/CoinGecko-/static/js/2.f5112baf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b58ea61d.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.f5112baf.chunk.js",
+    "static/css/main.fb477627.chunk.css",
+    "static/js/main.11fa4d9b.chunk.js"
+  ]
+}
